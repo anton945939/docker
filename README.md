@@ -77,4 +77,4 @@ Es un archivo de texto que contiene instrucciones para crear una imagen
 
 Son lugares en los cuales podemos almacenar imagenes docker
 
-![plot](./docker.svg)
+![plot](./resources/docker.svg)
