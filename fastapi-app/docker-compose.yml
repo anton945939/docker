@@ -1,0 +1,8 @@
+version: "3.9"  # optional since v1.27.0
+services:
+  fastapi:
+    image: fast-api
+    ports:
+      - "8000:80"
+    environment:
+      - LEVEL=DEBUG

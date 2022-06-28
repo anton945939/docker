@@ -1,0 +1,3 @@
+FROM scratch
+
+RUN cat "Hello Truedat" > hello_truedat.txt
