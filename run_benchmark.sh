@@ -1,0 +1,1 @@
+locust -f benchmark/locust.py --run-time 90s  --only-summary --headless --users 10 --spawn-rate 1 -H http://0.0.0.0:8000 &> benchmark.txt
