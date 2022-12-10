@@ -1,6 +1,6 @@
 services:
   fast-api:
-    image: 293038174526.dkr.ecr.eu-west-3.amazonaws.com/daniel-dev:0.0.1
+    image: 293038174526.dkr.ecr.eu-west-3.amazonaws.com/daniel-dev:0.0.2
     ports:
       - "443:80"
       - "80:80"
